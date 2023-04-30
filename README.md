@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yeno Minasona</h1>
-<h3 align="center">aPassionateLearning FrontEnd developer here in NY!</h3>
+<h3 align="center">aPassionateLearning FullStackWEB developer here in NY!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yminasona&label=Profile%20views&color=0e75b6&style=flat" alt="yminasona" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yminasona" alt="yminasona" /></a> </p>
 
-- 🌱 I’m currently learning **Front End Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **Artificial Intelligence**
 
